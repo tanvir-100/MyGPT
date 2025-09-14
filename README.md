@@ -1,0 +1,2 @@
+# MyGPT
+OpenAi platform
